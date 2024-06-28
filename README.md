@@ -28,8 +28,8 @@ You may cite our work using this reference:
 ## Concept
 Replacing a closed LLM with an open LLM can be as easy as pointing the applications to a local REST endpoint once a local LLM is in place.
 
-![The FLEXI approach replacing a cloud-based
-LLM with a locally maintained open LLM](img/overview.png)
+<img src="img/overview.png" alt="he FLEXI approach replacing a cloud-based
+LLM with a locally maintained open LLM" width="400"/>
 
 For more information on how to deploy your own local LLM as well as our experiences with running an open LLM, please refer to our [paper preprint](flexi.pdf).
 
