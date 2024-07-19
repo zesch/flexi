@@ -10,22 +10,26 @@ LLMs in higher education.
 We provide some practical guidance for everyone trying to decide whether to run their own LLM server.
 
 ## Reference
-A preprint describing FLEXI
+A arXiv preprint describing FLEXI
 
-> [FernUni LLM Experimental Infrastructure (FLEXI) -- Enabling Experimentation and Innovation in Higher Education Through Access to Open Large Language Models](flexi.pdf)
+> [FernUni LLM Experimental Infrastructure (FLEXI) -- Enabling Experimentation and Innovation in Higher Education Through Access to Open Large Language Models](https://arxiv.org/abs/2407.13013)
 
 You may cite our work using this reference:
 
 ```
 @misc{ZeschEtal2024flexi,
-  title={{FernUni LLM Experimental Infrastructure (FLEXI) -- Enabling Experimentation and Innovation in Higher Education Through Access to Open Large Language Models}},
-  author={Torsten Zesch and Michael Hanses and Niels Seidel and Piush Aggarwal and Dirk Veiel and Claudia de Witt},
-  year={2024},
-  howpublished={\url{https://github.com/zesch/flexi}}
+      title={FernUni LLM Experimental Infrastructure (FLEXI) -- Enabling Experimentation and Innovation in Higher Education Through Access to Open Large Language Models}, 
+      author={Torsten Zesch and Michael Hanses and Niels Seidel and Piush Aggarwal and Dirk Veiel and Claudia de Witt},
+      year={2024},
+      eprint={2407.13013},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY},
+      url={https://arxiv.org/abs/2407.13013}, 
 }
 ```
 
 ## Concept
+
 Replacing a closed LLM with an open LLM can be as easy as pointing the applications to a local REST endpoint once a local LLM is in place.
 
 <img src="img/overview.png" alt="he FLEXI approach replacing a cloud-based
