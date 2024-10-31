@@ -17,13 +17,11 @@ A arXiv preprint describing FLEXI
 You may cite our work using this reference:
 
 ```
-@misc{ZeschEtal2024flexi,
+@Inproceedings{ZeschEtal2024flexi,
       title={FernUni LLM Experimental Infrastructure (FLEXI) -- Enabling Experimentation and Innovation in Higher Education Through Access to Open Large Language Models}, 
       author={Torsten Zesch and Michael Hanses and Niels Seidel and Piush Aggarwal and Dirk Veiel and Claudia de Witt},
       year={2024},
-      eprint={2407.13013},
-      archivePrefix={arXiv},
-      primaryClass={cs.CY},
+      booktitle={In Proceedings of IEEE 21st International Conference on Information Technology Based Higher Education and Training (ITHET 2024), Special Theme: The Future of Education, Powered by IT and AI, 6 - 8 November 2024 | Paris, France},
       url={https://arxiv.org/abs/2407.13013}, 
 }
 ```
